@@ -372,7 +372,7 @@
 				CODE_SIGN_ENTITLEMENTS = "WarriorFIT AI/Entitlements/Entitlements.plist";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = KP52G46W8J;
 				INFOPLIST_FILE = "WarriorFIT AI/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -381,7 +381,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 5;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lifewarriorcoaching.warriorfitai";
 				PRODUCT_NAME = "WarriorFITAI";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -400,7 +400,7 @@
 				CLANG_ENABLE_MODULES = NO;
 				CODE_SIGN_ENTITLEMENTS = "WarriorFIT AI/Entitlements/Entitlements.plist";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = KP52G46W8J;
 				INFOPLIST_FILE = "WarriorFIT AI/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -408,8 +408,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1;
-				CURRENT_PROJECT_VERSION = 2;
+				MARKETING_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 5;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lifewarriorcoaching.warriorfitai";
 				PRODUCT_NAME = "WarriorFITAI";
 				SUPPORTS_MACCATALYST = YES;
