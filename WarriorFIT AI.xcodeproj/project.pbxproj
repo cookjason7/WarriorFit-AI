@@ -410,7 +410,7 @@
 				);
 				MARKETING_VERSION = 1;
 				CURRENT_PROJECT_VERSION = 1;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.warriorfitai";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lifewarriorcoaching.warriorfitai";
 				PRODUCT_NAME = "WarriorFITAI";
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Osize";
